@@ -16,7 +16,7 @@ This project demonstrates hosting a simple **HTML/CSS webpage** on **Microsoft A
 
 ## Screenshots
 All project screenshots, including the Resource Group, App Service, and webpage overview, can be viewed here:  
-[View Screenshots](https://imgur.com/a/RCERBba)
+[View Screenshots](https://postimg.cc/gallery/ZZ1R0Fc)
 
 ## Author
 **Salaheddine Ez-zahraoui**
